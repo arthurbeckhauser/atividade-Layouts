@@ -24,5 +24,9 @@
 .red {
     background-color: red;
     padding-right: 80px;
+}
 
+.green{
+    background-color: green;
+    padding-bottom: 80px;
 }
